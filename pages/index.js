@@ -13,7 +13,7 @@ function Home() {
           name="viewpoint"
           content="initial-scale=1.0, width=devide-width"
         />
-        <title> Abraão Gracco - Home </title>
+        <title> GraccoTech - Home </title>
       </Head>
       <Menu />
       Conteúdo do topo do site
