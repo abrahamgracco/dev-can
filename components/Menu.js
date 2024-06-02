@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const Menu = () => (
   <div>
-    <a>Welcome to GRACCO TECHNOLOGIES INC.</a>
+    <a>Welcome to Gracco Technologies Inc.</a>
   </div>
 );
 
